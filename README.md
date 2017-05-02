@@ -1,6 +1,10 @@
-# RtlRadioButton
+
+
+# RtlRadioButton v0.0.1
 simple customized radio button with RTL text and icon
 
+# RtlCheckBox v0.0.1
+soon
 
 # usage:
 just put that in your xml file. 
